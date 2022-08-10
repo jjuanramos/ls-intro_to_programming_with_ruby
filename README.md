@@ -1,1 +1,1 @@
-# ls-intro_to_programming_with_ruby
+Exercises for [Introduction to Programming with Ruby](https://launchschool.com/books/ruby)
